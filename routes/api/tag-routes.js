@@ -9,7 +9,7 @@ router.get('/', (req, res) => {
   Tag.findAll({
     include: [{
       model: Product
-    }],
+    }]
   }).then((tags)=> res.json(tags))
   .catch((err) => { 
     console.log(err);
@@ -23,8 +23,8 @@ router.get('/:id', (req, res) => {
   Tag.findOne({
     where: {
       id:req.params.id
-    },
-    imclude: [Product]
+    }, 
+    include: [Product]
   }).then((tags) => res.json(tags))
   .catch((err) => {
     console.log(err);
@@ -34,12 +34,8 @@ router.get('/:id', (req, res) => {
 
 router.post('/', (req, res) => {
   // create a new tag
-  Tag.create({
-    where: {
-      id:req.params.id
-    },
-    imclude: [Product]
-  }).then((tags) => res.json(tags))
+  Tag.create(req.body
+ ).then((tags) => res.json(tags))
   .catch((err) => {
     console.log(err);
   res.status(500).json(err);
@@ -48,11 +44,10 @@ router.post('/', (req, res) => {
 
 router.put('/:id', (req, res) => {
   // update a tag's name by its `id` value
-  Tag.update({
+  Tag.update(req.body, {
     where: {
-      id:req.params.id
-    },
-    imclude: [Product]
+      id: req.params.id
+    }
   }).then((tags) => res.json(tags))
   .catch((err) => {
     console.log(err);
@@ -67,7 +62,7 @@ router.delete('/:id', (req, res) => {
     where: {
       id:req.params.id
     },
-    imclude: [Product]
+    include: [Product]
   }).then((tags) => res.json(tags))
   .catch((err) => {
     console.log(err);
