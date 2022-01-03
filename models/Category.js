@@ -27,5 +27,5 @@ Category.init(
     modelName: 'category',
   }
 );
- 
+  
 module.exports = Category;
