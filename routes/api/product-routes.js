@@ -34,8 +34,11 @@ router.get('/:id', (req, res) => {
       Category,
       Tag
     ]
-  }).then(product => res.send)
-
+  })
+  // .then(product => res.send)
+  .then((oneProducts) => res.json(oneProducts))
+  .catch((err)=> {
+  })
   
 });
 
