@@ -47,7 +47,7 @@
 
 ![Ecommerce 2](https://user-images.githubusercontent.com/90415841/148587786-ea2c6555-46b8-4e1a-be03-0bebed3c4456.png)
 
-## Questions.
+## Questions
 ### If you have any questions, please send me an email @ sibarraryan@gmail.com . 
 ### You can visit my GitHub: [SantiBass.](https://github.com/SantiBass)
 ### Also, you can watch this application in action by using this link: [E-Commerce Back-End](https://watch.screencastify.com/v/tqGktf7C2brAIRFUnlwP) 
