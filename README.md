@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description.
-### The purpose this application is to manage the back-end of an e-commerce site. Express.js API, Sequelize, and MySQL were use to achieve the final back-end application. A stater code was given to me as part of the the "todo's". You can see the application in action by clicking this link: [E-Commerce Back-End.](()
+### The purpose this application is to manage the back-end of an e-commerce site. Express.js API, Sequelize, and MySQL were use to achieve the final back-end application. A stater code was given to me as part of the the "todo's". You can see the application in action by clicking this link: [E-Commerce Back-End.](https://watch.screencastify.com/v/tqGktf7C2brAIRFUnlwP)
 
 
 
@@ -18,7 +18,7 @@
 * [Questions](#questions)
 
 ## Installation
-#### To run this application we nee to install [insomnia](https://insomnia.rest/)run "[npm i mysql2](https://www.npmjs.com/package/node)", "[npm i sequelize](https://www.npmjs.com/package/sequelize)" and  "[npm i dotenv](https://www.npmjs.com/package/dotenv)" in [Visual Studio Code](https://code.visualstudio.com/download) to install all dependencies and CLI capabilities. [Visual Studio Code](https://code.visualstudio.com/download) is a source-code editor made by Microsoft for Windows, Linux and macOS.
+#### To run this application, we need to install the [insomnia](https://insomnia.rest/) software and run these command lines: "[npm i mysql2](https://www.npmjs.com/package/node)", "[npm i sequelize](https://www.npmjs.com/package/sequelize)" and  "[npm i dotenv](https://www.npmjs.com/package/dotenv)" in [Visual Studio Code](https://code.visualstudio.com/download) to install all dependencies and CLI capabilities. [Visual Studio Code](https://code.visualstudio.com/download) is a source-code editor made by Microsoft for Windows, Linux and macOS.
 
 ## License
 #### This project is licensed by:  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -28,14 +28,14 @@
 
 
 ## Usage
-#### The way to use this application is by changing the end point ant the local host address. After doing that, we can GET, POST, PUT, and DELETE a product, category, or tag by clicking the send button
+#### The way to use this application is by changing the end point ant the local host address. After doing that, we can GET, POST, PUT, and DELETE a product, category, or tag by clicking the send button.
 
 ## Credits
 #### TA's and AskBSC. They provided valuable contributions to this project.
 
 ## Test
 
-### In order to test this back-end application, we need to run these command lines: "npm run seed", "npm start", and "mysql -u root -p" nd then open insomnia. Once [insomnia](https://insomnia.rest/) is opened, we can test GET, POST,PUT, .and DELETE products, categories, or tags
+### In order to test this back-end application, we need to run these command lines: "npm run seed", "npm start", and "mysql -u root -p" and then open insomnia. Once [insomnia](https://insomnia.rest/) is opened, we can test GET, POST,PUT, and DELETE for products, categories, or tags by changing the end-point.
 
 ## GitHub
 
@@ -50,7 +50,8 @@
 ## Question
 ### If you have any questions, please send me an email @ sibarraryan@gmail.com. 
 ### You can visit my GitHub: [SantiBass.](https://github.com/SantiBass)
-### Also, you can watch this application in action by using this link: [Employee Tracker](https://watch.screencastify.com/v/anhyVRYfAW1ywGJn0gfA) 
+### Also, you can watch this application in action by using this link: [E-Commerce Back-End](https://drive.google.com/file/d/1Cu11g-Fj6b4R-hzY7RgnK17DIoCLi_9f/view) 
+#### Note: Change the resolution to 720p in the video settings for better picture quality.
 
 
 
