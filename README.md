@@ -43,10 +43,9 @@
 
 ## Screenshots.
 #### Here are some screenshots of the application.
-![Screen Shot 1](https://user-images.githubusercontent.com/90415841/147710501-26c548b5-66c6-4907-9bc0-b76c721fd668.png)
+![Ecommerce 1](https://user-images.githubusercontent.com/90415841/148587746-e45d6ac7-c122-4685-9def-4c2f16032354.png)
 
-![Screen Shot 2](https://user-images.githubusercontent.com/90415841/147710572-d4933c0d-7ecd-4440-b249-66f5916b5c90.png)
-
+![Ecommerce 2](https://user-images.githubusercontent.com/90415841/148587786-ea2c6555-46b8-4e1a-be03-0bebed3c4456.png)
 
 ## Question
 ### If you have any questions, please send me an email @ sibarraryan@gmail.com. 
