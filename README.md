@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description.
-### The purpose this application is to manage the back-end of an e-commerce site. Express.js API, Sequelize, and MySQL were use to achieve the final back-end application. A stater code was given to me as part of the starting point and notion to start developing this application. You can see the application in action by clicking this link: [E-Commerce Back-End.](https://watch.screencastify.com/v/tqGktf7C2brAIRFUnlwP)
+### The purpose this application is to manage the back-end of an e-commerce site. Express.js API, Sequelize, and MySQL were use to achieve the final back-end application. A stater code was given to me as part of the starting point to develope this application. You can see the application in action by clicking this link: [E-Commerce Back-End.](https://watch.screencastify.com/v/tqGktf7C2brAIRFUnlwP)
 
 
 
