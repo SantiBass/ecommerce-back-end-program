@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description.
-### The purpose this application is to manage the back-end of an e-commerce site. Express.js API, Sequelize, and MySQL were use to achieve the final back-end application. A stater code was given to me as part of the starting point to develope this application. You can see the application in action by clicking this link: [E-Commerce Back-End.](https://watch.screencastify.com/v/tqGktf7C2brAIRFUnlwP)
+### The purpose this application is to manage the back-end of an e-commerce site. Express.js API, Sequelize, and MySQL were use to achieve the final back-end application. A stater code was given to me as part of the starting point to develope this application. You can see the application in action by clicking this link: [E-Commerce Back-End.](https://drive.google.com/file/d/1Cu11g-Fj6b4R-hzY7RgnK17DIoCLi_9f/view?usp=sharing)
 
 
 
@@ -50,7 +50,7 @@
 ## Questions
 ### If you have any questions, please send me an email @ sibarraryan@gmail.com . 
 ### You can visit my GitHub: [SantiBass.](https://github.com/SantiBass)
-### Also, you can watch this application in action by using this link: [E-Commerce Back-End](https://watch.screencastify.com/v/tqGktf7C2brAIRFUnlwP) 
+### Also, you can watch this application in action by using this link: [E-Commerce Back-End](https://drive.google.com/file/d/1Cu11g-Fj6b4R-hzY7RgnK17DIoCLi_9f/view?usp=sharing) 
 #### Note: Change the resolution to 720p in the video settings for better picture quality.
 
 
